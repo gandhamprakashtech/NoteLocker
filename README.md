@@ -20,8 +20,10 @@
 
 ## 📸 Screenshots
 
-><img width="743" alt="image" src="https://github.com/user-attachments/assets/512766fc-7efa-48b6-8700-b0f4c9b69880" />
-><img width="728" alt="image" src="https://github.com/user-attachments/assets/b88be19c-e8d4-4e0f-bc60-449ea57e71a2" />
+><img width="743" alt="image" src="![image](https://github.com/user-attachments/assets/1258a04d-584e-4c03-b1da-2ddeb186d237)
+" />
+><img width="728" alt="image" src="![image](https://github.com/user-attachments/assets/3a9e7d69-112b-4455-b801-46f4d9de13d9)
+" />
 
 
 ## 📦 How to Run This Project Locally
