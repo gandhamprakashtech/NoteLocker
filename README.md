@@ -19,11 +19,10 @@
 - No frameworks, libraries, or backend — just plain frontend magic.
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/e15816e9-d422-4bfd-9e73-31a5fc67f85d)
 
-><img width="743" alt="image" src="![image](https://github.com/user-attachments/assets/1258a04d-584e-4c03-b1da-2ddeb186d237)
-" />
-><img width="728" alt="image" src="![image](https://github.com/user-attachments/assets/3a9e7d69-112b-4455-b801-46f4d9de13d9)
-" />
+![image](https://github.com/user-attachments/assets/31d59fd0-045a-47ed-b300-23faa26ab9e7)
+
 
 
 ## 📦 How to Run This Project Locally
